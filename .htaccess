@@ -1,0 +1,6 @@
+<Files "claude-config.php">
+  Require all denied
+</Files>
+<Files "claude-config.example.php">
+  Require all denied
+</Files>
